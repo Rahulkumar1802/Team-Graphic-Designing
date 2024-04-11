@@ -1,0 +1,71 @@
+
+GIT CHEAT SHEET :
+  
+       INSTALLATION & GUIS :
+         kese install karna hai.
+
+            GitHub for Windows
+                https://windows.github.com
+            GitHub for Mac
+                https://mac.github.com
+            Git for All Platforms
+                http://git-scm.com
+
+         For Linux and Solaris platforms, the latest release is available on the official Git web site.
+
+       SETUP For Command prompt
+         
+             git config --global user.name “[firstname lastname]”
+
+             git config --global user.email “[valid-email]”
+
+
+       SETUP on Terminal :
+
+
+               git init : 
+                     initialize or connecting git with Terminal existing directory.
+
+               work
+
+                   1. git clone [url]
+                            > clone - cloning a GitHub repository on local machine.
+
+                  2. git status
+                            > Status - Display the State of the Code. 
+
+                                   • ie they are  Untracked (New file that git doesn't yet track)
+                                   • Modified ie changed       
+                                • Staged : file is ready to be commit
+                                • Unmodified : unchanged 
+
+                  3. git add [file]
+                            > add - add new or changed files in your working directory to the git staging area.
+                        or
+                     git add . 
+                          to add all file at a time.
+                        Also
+                     git rm [file]
+                          to delete the file from project and stage the removal for commit     
+
+                  4. git commit -m “[descriptive message]”
+                                         > commit - It is the record of change
+
+                  5.  git log 
+                            > log - show all details of files
+                    → git log --oneline
+                            > in short show all commit
+
+                                After that 
+                                        → git show using lay co SHAI code
+                                        → It defines what is change in  defferent different code Commit  me.
+
+                    → git blame [file]               
+                                → It  show which line when and who change the data in detailed line by line.
+                                
+
+
+
+
+
+

@@ -1,2 +1,22 @@
 Git :
-  
+    
+
+  Grid is a version control system.
+   → Grit is a tools or Software { we assume } 
+   →Version Control System is a tools that helps to track changes in code / or track the history of program code.
+   . It is Popular, free & pen Source ; Also fast & Scalable.
+   *Helps in track the history Also, Collaborate (Multiple or long project Ko Mixup Nhi hone deta hai or to track changes or not overwrite)
+
+Grid Hub:-
+
+  → It is a website that allows developers to store and manage their code using Git.
+         [ https://github.com ]
+  → upload our project in a folder form which is  Called Repository (Repo). 
+
+     README.md :
+         md -> Mark down
+
+        In Gillud changes Ko commit Kehte hai.
+        A commit saves in the foom of History. 
+        •Author Jo changes Karta hal
+           To save README.md changes ie commit changes -> commit massage -> commit change(ie save botton)

@@ -62,6 +62,14 @@ GIT CHEAT SHEET :
 
                     → git blame [file]               
                                 → It  show which line when and who change the data in detailed line by line.
+
+                   6. git push
+                     jkghhikjilkf
+                     lkdsjvljdv
+                     kljvlkjd
+                       
+
+
                                 
 
 
